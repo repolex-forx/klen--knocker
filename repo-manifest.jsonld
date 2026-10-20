@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/knocker/commit/e6fc5188a7558fbc0e7b56f92162d8e944e4c746",
       "git:hexsha": "e6fc5188a7558fbc0e7b56f92162d8e944e4c746",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.4.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.4.1",
+      "repolex:parsedAt": "2026-10-20T21:32:42.870335+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/knocker/commit/9d6fa7f0793481b6df288a39cb6547f8cd209339",
