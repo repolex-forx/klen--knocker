@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/knocker/commit/e6fc5188a7558fbc0e7b56f92162d8e944e4c746",
       "git:hexsha": "e6fc5188a7558fbc0e7b56f92162d8e944e4c746",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.4.1"
     },
     {
