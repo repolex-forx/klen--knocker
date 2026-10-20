@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "knocker",
+  "versions": [
+    {
+      "commit": "e6fc5188a7558fbc0e7b56f92162d8e944e4c746",
+      "tag": "1.4.1",
+      "parsed_at": "2026-10-20T21:32:42.871015+00:00"
+    }
+  ]
+}
